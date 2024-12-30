@@ -19,7 +19,7 @@ Before running the chatbot, ensure you have the following installed:
 Python 3.7 or higher
 Required Python libraries (can be installed using the command below)
 pip install -r requirements.txt
-Project Structure
+# Project Structure
 Implementation-of-ChatBot-using-NLP-main/
 ├── data/                # Dataset for training the chatbot
 ├── models/              # Saved models
